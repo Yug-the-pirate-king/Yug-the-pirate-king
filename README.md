@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Yug-the-pirate-king
+- 👀 I’m interested in codeing, video editing , digital marketing,ai
+- 🌱 I’m currently learning in SVKM SBMPCOE 
+- 💞️ I’m looking to collaborate on digital marketing,ai,codeing
+- 📫 How to reach me yugshah197@gmail.com
+- 😄 Pronouns:"Tails you win!"
+- ⚡ Fun fact: "The sun weighs 2,000 million million million million tons."
