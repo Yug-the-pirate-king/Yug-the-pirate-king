@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Yug Shah
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> Hello World! I'm Yug Shah
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+%26+AI+Enthusiast;Building+Tomorrow's+Solutions" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="rocket.gif" width="45px">  About Me
 
 🎓 **BTech Computer Science & Engineering** (2024–2028)  
 📍 SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering  
