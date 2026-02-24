@@ -82,13 +82,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yug-the-pirate-king&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-the-pirate-king&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yug-the-pirate-king&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
