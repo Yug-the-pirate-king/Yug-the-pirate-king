@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yug-the-pirate-king&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yug-the-pirate-king" alt="GitHub Streak" /></a>
 
 </div>
 
