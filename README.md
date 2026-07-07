@@ -1,12 +1,16 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> Hello World! I'm Yug Shah
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px" alt="waving hand"> Hello World! I'm Yug Shah
 
+<!-- Profile header / animated tagline -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
+    alt="Animated typing tagline"
+  />
 </div>
 
 ---
 
-## <img src="rocket.gif" height="40" /> About Me
+## <img src="rocket.gif" height="40" alt="rocket"> About Me
 
 🎓 **BTech Computer Science & Engineering (2024–2028)**  
 🏫 SVKM’s Shri Bhagubhai Mafatlal Polytechnic & College of Engineering  
@@ -22,6 +26,7 @@
 
 ## 🛠️ Tech Arsenal
 
+<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency -->
 ### **Languages & Core Skills**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,7 +41,7 @@
 ### **Cloud & DevOps (Learning)**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,6 +73,7 @@
 
 ## 🤝 Let's Connect
 
+<!-- Social links rendered as a centered badge row -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
@@ -80,9 +86,12 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Streak stats widget -->
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yug-the-pirate-king" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Yug-the-pirate-king" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -90,6 +99,7 @@
 
 ## 💭 Random Dev Wisdom
 
+<!-- Dynamic quote widget -->
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -99,18 +109,24 @@
 ---
 
 ## 🔥 Recent Activity
+
+<!-- GitHub Actions activity feed placeholder -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution snake animation" />
+
 </div>
 
 ---
 
+<!-- Closing / footer message -->
 <div align="center">
 
 **Thanks for visiting! 😄**  
