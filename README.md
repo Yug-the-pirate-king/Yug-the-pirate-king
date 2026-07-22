@@ -13,6 +13,20 @@
   />
 </div>
 
+<!-- Animated Spotify Lyrics Hero Banner -->
+<div align="center">
+  <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
+  <img
+    src="gemini-svg (1).svg"
+    alt="Peaches - Spotify Lyrics Animation"
+    width="800"
+    height="400"
+    loading="eager"
+    decoding="async"
+    referrerpolicy="no-referrer"
+  />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -32,6 +46,8 @@
 ## 🛠️ Tech Arsenal
 
 <!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency. All badge links are served over HTTPS. -->
+<div align="center">
+
 ### **Languages & Core Skills**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -53,6 +69,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
 
 ---
 
