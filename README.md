@@ -1,16 +1,21 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px" alt="waving hand"> Hello World! I'm Yug Shah
+# 👋 Hello World! I'm Yug Shah
 
-<!-- Profile header / animated tagline -->
+<!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
     alt="Animated typing tagline"
+    width="700"
+    height="100"
+    loading="eager"
+    decoding="async"
+    referrerpolicy="no-referrer"
   />
 </div>
 
 ---
 
-## <img src="rocket.gif" height="40" alt="rocket"> About Me
+## 🚀 About Me
 
 🎓 **BTech Computer Science & Engineering (2024–2028)**  
 🏫 SVKM’s Shri Bhagubhai Mafatlal Polytechnic & College of Engineering  
@@ -26,7 +31,7 @@
 
 ## 🛠️ Tech Arsenal
 
-<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency -->
+<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency. All badge links are served over HTTPS. -->
 ### **Languages & Core Skills**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -73,7 +78,7 @@
 
 ## 🤝 Let's Connect
 
-<!-- Social links rendered as a centered badge row -->
+<!-- Social links rendered as a centered badge row. External links use HTTPS and open securely. -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
@@ -86,11 +91,19 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Streak stats widget -->
+<!-- Streak stats widget loaded from an external service. -->
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Yug-the-pirate-king" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
+  <img
+    src="https://streak-stats.demolab.com?user=Yug-the-pirate-king"
+    alt="GitHub Streak"
+    width="495"
+    height="195"
+    loading="lazy"
+    decoding="async"
+    referrerpolicy="no-referrer"
+  />
 </a>
 
 </div>
@@ -99,10 +112,18 @@
 
 ## 💭 Random Dev Wisdom
 
-<!-- Dynamic quote widget -->
+<!-- Dynamic quote widget loaded from an external service. -->
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  alt="Random developer quote"
+  width="800"
+  height="120"
+  loading="lazy"
+  decoding="async"
+  referrerpolicy="no-referrer"
+/>
 
 </div>
 
@@ -110,8 +131,8 @@
 
 ## 🔥 Recent Activity
 
-<!-- GitHub Actions activity feed placeholder -->
 <!--START_SECTION:activity-->
+<!-- This section is populated automatically by a GitHub Action. If it is empty, the workflow may not have run yet or no recent activity exists. -->
 <!--END_SECTION:activity-->
 
 ---
@@ -120,7 +141,15 @@
 
 <div align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution snake animation" />
+<img
+  src="https://profile-readme-generator.com/assets/snake.svg"
+  alt="Contribution snake animation"
+  width="100%"
+  height="auto"
+  loading="lazy"
+  decoding="async"
+  referrerpolicy="no-referrer"
+/>
 
 </div>
 
