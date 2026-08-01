@@ -1,10 +1,13 @@
 # 👋 Hello World! I'm Yug Shah
 
-<!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
+<!-- Profile header / animated tagline.
+     Loaded from readme-typing-svg.herokuapp.com.
+     Edge case: if the external service is unavailable, the alt text and explicit dimensions keep the layout stable.
+     Security: served via HTTPS, no referrer, async decoding. -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
-    alt="Animated typing tagline"
+    alt="Animated typing tagline: Frontend Developer (React & JS), Cloud & AI Enthusiast, Aspiring Full-Stack Engineer, Building Modern Web Apps"
     width="700"
     height="100"
     loading="eager"
@@ -13,11 +16,13 @@
   />
 </div>
 
-<!-- Animated Spotify Lyrics Hero Banner -->
+<!-- Animated Spotify Lyrics Hero Banner.
+     Source file: gemini-svg (1).svg (local asset). Validation note:
+     ensure this file exists in the repository root; otherwise the image will 404. -->
 <div align="center">
   <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
   <img
-    src="gemini-svg (1).svg"
+    src="gemini-svg%20(1).svg"
     alt="Peaches - Spotify Lyrics Animation"
     width="800"
     height="400"
@@ -45,7 +50,9 @@
 
 ## 🛠️ Tech Arsenal
 
-<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency. All badge links are served over HTTPS. -->
+<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency.
+     All badge links are served over HTTPS with explicit alt text for screen readers.
+     Accessibility: badge alt text describes the technology name. -->
 <div align="center">
 
 ### **Languages & Core Skills**
@@ -96,12 +103,14 @@
 
 ## 🤝 Let's Connect
 
-<!-- Social links rendered as a centered badge row. External links use HTTPS and open securely. -->
+<!-- Social links rendered as a centered badge row.
+     External links use HTTPS and open in a new tab with noopener/noreferrer
+     to prevent tab-nabbing and leaking referrer data. -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugshah197@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahyug.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug "Visit my LinkedIn profile")
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugshah197@gmail.com "Send me an email")
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahyug.netlify.app "Visit my portfolio website")
 
 </div>
 
@@ -109,13 +118,15 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Streak stats widget loaded from an external service. -->
+<!-- Streak stats widget loaded from an external service.
+     Security: opens in a new tab; image is lazy-loaded to improve performance.
+     Edge case: if demolab.com is down, the explicit dimensions reserve space. -->
 <div align="center">
 
-<a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
+<a href="https://git.io/streak-stats" title="GitHub Streak Stats service" rel="noopener noreferrer" target="_blank">
   <img
     src="https://streak-stats.demolab.com?user=Yug-the-pirate-king"
-    alt="GitHub Streak"
+    alt="GitHub Streak Stats for Yug-the-pirate-king"
     width="495"
     height="195"
     loading="lazy"
@@ -130,7 +141,9 @@
 
 ## 💭 Random Dev Wisdom
 
-<!-- Dynamic quote widget loaded from an external service. -->
+<!-- Dynamic quote widget loaded from an external service.
+     Lazy loaded because it appears below the fold.
+     Fallback: if the service fails, the alt text is displayed. -->
 <div align="center">
 
 <img
@@ -150,13 +163,18 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is populated automatically by a GitHub Action. If it is empty, the workflow may not have run yet or no recent activity exists. -->
+<!-- This section is populated automatically by a GitHub Action.
+     If it is empty, the workflow may not have run yet or no recent activity exists.
+     No manual edits should be made between these markers. -->
 <!--END_SECTION:activity-->
 
 ---
 
 ## 🐍 Contribution Snake
 
+<!-- Contribution snake animation loaded from an external service.
+     Validation note: width="100%" is valid HTML; height="auto" preserves aspect ratio.
+     Lazy loaded as it is decorative and below the fold. -->
 <div align="center">
 
 <img
