@@ -1,10 +1,12 @@
 # 👋 Hello World! I'm Yug Shah
 
-<!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
+<!-- Profile header / animated tagline.
+     Loaded from readme-typing-svg.herokuapp.com.
+     Eagerly loaded because it is the hero / first visual element. -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
-    alt="Animated typing tagline"
+    alt="Animated typing tagline: Frontend Developer (React & JS); Cloud & AI Enthusiast; Aspiring Full-Stack Engineer; Building Modern Web Apps"
     width="700"
     height="100"
     loading="eager"
@@ -13,11 +15,12 @@
   />
 </div>
 
-<!-- Animated Spotify Lyrics Hero Banner -->
+<!-- Animated Spotify Lyrics Hero Banner.
+     The SVG is bundled in the repository for fast, reliable loading. -->
 <div align="center">
-  <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
+  <h3>My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
   <img
-    src="gemini-svg (1).svg"
+    src="gemini-svg%20(1).svg"
     alt="Peaches - Spotify Lyrics Animation"
     width="800"
     height="400"
@@ -26,6 +29,20 @@
     referrerpolicy="no-referrer"
   />
 </div>
+
+---
+
+<!-- Table of Contents for fast navigation.
+     Anchor links match the section headings below. -->
+- [🚀 About Me](#-about-me)
+- [🛠️ Tech Arsenal](#️-tech-arsenal)
+- [🎯 What I'm Up To](#-what-im-up-to)
+- [📜 Certifications](#-certifications)
+- [🤝 Let's Connect](#-lets-connect)
+- [📊 GitHub Analytics](#-github-analytics)
+- [💭 Random Dev Wisdom](#-random-dev-wisdom)
+- [🔥 Recent Activity](#-recent-activity)
+- [🐍 Contribution Snake](#-contribution-snake)
 
 ---
 
@@ -45,29 +62,36 @@
 
 ## 🛠️ Tech Arsenal
 
-<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency. All badge links are served over HTTPS. -->
+<!-- Reusable badge row helper.
+     Every badge uses shields.io with the for-the-badge style for visual consistency.
+     All badge links are served over HTTPS and include a 1x1 transparent pixel spacer
+     to keep rows aligned on narrow viewports. -->
 <div align="center">
 
 ### **Languages & Core Skills**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **Cloud & DevOps (Learning)**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
@@ -76,32 +100,33 @@
 
 ## 🎯 What I'm Up To
 
-- 🔭 Building **responsive web apps** using React & JavaScript  
-- 🌱 Learning **Cloud, DevOps basics, and AI integration**  
-- 👯 Open to collaborating on **full-stack & automation projects**  
-- 📘 Working on **cybersecurity research & system design**  
+- 🔭 Building **responsive web apps** using React & JavaScript
+- 🌱 Learning **Cloud, DevOps basics, and AI integration**
+- 👯 Open to collaborating on **full-stack & automation projects**
+- 📘 Working on **cybersecurity research & system design**
 - ⚡ Fun fact: `console.log()` is still my best friend 😄
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
-- 🏅 CS50’s Introduction to Computer Science  
-- 🏅 JavaScript Algorithms and Data Structures  
-- 🏅 Responsive Web Design  
-- 🏅 n8n Course – Level 1 & Level 2  
+- 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate
+- 🏅 CS50’s Introduction to Computer Science
+- 🏅 JavaScript Algorithms and Data Structures
+- 🏅 Responsive Web Design
+- 🏅 n8n Course – Level 1 & Level 2
 
 ---
 
 ## 🤝 Let's Connect
 
-<!-- Social links rendered as a centered badge row. External links use HTTPS and open securely. -->
+<!-- Social links rendered as a centered badge row.
+     External links open in a new tab and use noopener/noreferrer for security. -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugshah197@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahyug.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug "Visit my LinkedIn profile")&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugshah197@gmail.com "Send me an email")&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahyug.netlify.app "Visit my portfolio")
 
 </div>
 
@@ -109,13 +134,15 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Streak stats widget loaded from an external service. -->
+<!-- Streak stats widget loaded from an external service.
+     Wrapped in a link so clicking the image opens the service page.
+     Lazy loaded because it appears below the fold. -->
 <div align="center">
 
 <a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
   <img
     src="https://streak-stats.demolab.com?user=Yug-the-pirate-king"
-    alt="GitHub Streak"
+    alt="GitHub Streak statistics for Yug-the-pirate-king"
     width="495"
     height="195"
     loading="lazy"
@@ -130,7 +157,8 @@
 
 ## 💭 Random Dev Wisdom
 
-<!-- Dynamic quote widget loaded from an external service. -->
+<!-- Dynamic quote widget loaded from an external service.
+     Lazy loaded to improve initial page render performance. -->
 <div align="center">
 
 <img
@@ -150,7 +178,8 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is populated automatically by a GitHub Action. If it is empty, the workflow may not have run yet or no recent activity exists. -->
+<!-- This section is populated automatically by a GitHub Action.
+     If it is empty, the workflow may not have run yet or no recent activity exists. -->
 <!--END_SECTION:activity-->
 
 ---
@@ -176,7 +205,7 @@
 <!-- Closing / footer message -->
 <div align="center">
 
-**Thanks for visiting! 😄**  
+**Thanks for visiting! 😄**
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
