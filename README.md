@@ -1,10 +1,23 @@
 # 👋 Hello World! I'm Yug Shah
 
-<!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
-<div align="center">
+<!--
+  GitHub profile README for Yug Shah (@Yug-the-pirate-king).
+  
+  This file contains static Markdown/HTML. Dynamic widgets are loaded from
+  external services; validate the following before each commit:
+    - All external image URLs are HTTPS and reachable.
+    - Local asset "gemini-svg (1).svg" exists in the repository root.
+    - GitHub Action output is written between the activity section markers.
+    - Badge URLs follow shields.io for-the-badge style for visual consistency.
+-->
+
+<!-- Profile header / animated tagline.
+     Source: readme-typing-svg.herokuapp.com (external service).
+     Fallback: plain text title is provided below the widget for accessibility. -->
+<div align="center" aria-label="Animated profile tagline">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
-    alt="Animated typing tagline"
+    alt="Animated typing tagline: Frontend Developer (React & JS), Cloud & AI Enthusiast, Aspiring Full-Stack Engineer, Building Modern Web Apps"
     width="700"
     height="100"
     loading="eager"
@@ -13,11 +26,12 @@
   />
 </div>
 
-<!-- Animated Spotify Lyrics Hero Banner -->
-<div align="center">
+<!-- Animated Spotify Lyrics Hero Banner.
+     Local SVG asset: ensure "gemini-svg (1).svg" is present at the repo root. -->
+<div align="center" aria-label="Current favourite song banner">
   <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
   <img
-    src="gemini-svg (1).svg"
+    src="gemini-svg%20(1).svg"
     alt="Peaches - Spotify Lyrics Animation"
     width="800"
     height="400"
@@ -45,7 +59,12 @@
 
 ## 🛠️ Tech Arsenal
 
-<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency. All badge links are served over HTTPS. -->
+<!--
+  Reusable badge row helper.
+  Convention: every badge uses shields.io with for-the-badge style so the
+  profile renders consistently across light and dark themes.
+  All badge links are served over HTTPS.
+-->
 <div align="center">
 
 ### **Languages & Core Skills**
@@ -96,7 +115,11 @@
 
 ## 🤝 Let's Connect
 
-<!-- Social links rendered as a centered badge row. External links use HTTPS and open securely. -->
+<!--
+  Social links rendered as a centered badge row.
+  External links use HTTPS, open in a new tab, and include rel attributes
+  for security. Validate each URL before publishing changes.
+-->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
@@ -112,7 +135,7 @@
 <!-- Streak stats widget loaded from an external service. -->
 <div align="center">
 
-<a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
+<a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank" title="GitHub Streak Stats">
   <img
     src="https://streak-stats.demolab.com?user=Yug-the-pirate-king"
     alt="GitHub Streak"
@@ -150,7 +173,9 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is populated automatically by a GitHub Action. If it is empty, the workflow may not have run yet or no recent activity exists. -->
+<!-- This section is populated automatically by a GitHub Action.
+     If it is empty, the workflow may not have run yet or no recent activity exists.
+     Validate that the workflow has write access to this README file. -->
 <!--END_SECTION:activity-->
 
 ---
