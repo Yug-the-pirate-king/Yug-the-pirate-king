@@ -1,29 +1,36 @@
+<!-- README.md — Profile overview for Yug Shah (Yug-the-pirate-king) -->
+<!-- This file mixes Markdown with inline HTML to render a rich GitHub profile page. -->
+<!-- All external widgets use HTTPS and include descriptive alt text for accessibility. -->
+<!-- Local assets are referenced with relative paths; keep them in the repository root. -->
+
 # 👋 Hello World! I'm Yug Shah
 
-<!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
+<!-- Hero typing animation. Loaded from readme-typing-svg. Falls back to plain alt text if the service is unavailable. -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
-    alt="Animated typing tagline"
+    alt="Animated typing tagline: Frontend Developer (React & JS); Cloud & AI Enthusiast; Aspiring Full-Stack Engineer; Building Modern Web Apps"
     width="700"
     height="100"
     loading="eager"
     decoding="async"
     referrerpolicy="no-referrer"
+    role="img"
   />
 </div>
 
-<!-- Animated Spotify Lyrics Hero Banner -->
+<!-- Spotify-style lyrics banner. Uses a local SVG, so verify 'gemini-svg (1).svg' exists in the repo root. -->
 <div align="center">
-  <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
+  <h3>My Current Favourite <strong>Peaches</strong> — Justin Bieber</h3>
   <img
-    src="gemini-svg (1).svg"
-    alt="Peaches - Spotify Lyrics Animation"
+    src="gemini-svg%20(1).svg"
+    alt="Peaches — Spotify lyrics animation"
     width="800"
     height="400"
     loading="eager"
     decoding="async"
     referrerpolicy="no-referrer"
+    role="img"
   />
 </div>
 
@@ -45,12 +52,12 @@
 
 ## 🛠️ Tech Arsenal
 
-<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency. All badge links are served over HTTPS. -->
+<!-- Badge grid generated with shields.io. Each badge uses the for-the-badge style for visual consistency. All links are HTTPS. -->
 <div align="center">
 
 ### **Languages & Core Skills**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C programming language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++ programming language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -86,22 +93,22 @@
 
 ## 📜 Certifications
 
-- 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
+- 🏅 Oracle Cloud Infrastructure 2025 — AI Foundations Associate  
 - 🏅 CS50’s Introduction to Computer Science  
 - 🏅 JavaScript Algorithms and Data Structures  
 - 🏅 Responsive Web Design  
-- 🏅 n8n Course – Level 1 & Level 2  
+- 🏅 n8n Course — Level 1 & Level 2  
 
 ---
 
 ## 🤝 Let's Connect
 
-<!-- Social links rendered as a centered badge row. External links use HTTPS and open securely. -->
+<!-- Social links rendered as a centered badge row. External links open in a new tab safely with noopener/noreferrer. -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugshah197@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahyug.netlify.app)
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug){:target="_blank" rel="noopener noreferrer"}
+[![Email contact](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugshah197@gmail.com)
+[![Portfolio website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahyug.netlify.app){:target="_blank" rel="noopener noreferrer"}
 
 </div>
 
@@ -109,18 +116,19 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Streak stats widget loaded from an external service. -->
+<!-- Streak stats widget loaded from an external service. Wrapped in a link so it is still reachable if the image fails to load. -->
 <div align="center">
 
 <a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
   <img
     src="https://streak-stats.demolab.com?user=Yug-the-pirate-king"
-    alt="GitHub Streak"
+    alt="GitHub contribution streak statistics"
     width="495"
     height="195"
     loading="lazy"
     decoding="async"
     referrerpolicy="no-referrer"
+    role="img"
   />
 </a>
 
@@ -130,7 +138,7 @@
 
 ## 💭 Random Dev Wisdom
 
-<!-- Dynamic quote widget loaded from an external service. -->
+<!-- Dynamic quote widget loaded from an external service. Alt text describes the purpose, not the changing quote. -->
 <div align="center">
 
 <img
@@ -141,6 +149,7 @@
   loading="lazy"
   decoding="async"
   referrerpolicy="no-referrer"
+  role="img"
 />
 
 </div>
@@ -150,23 +159,24 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is populated automatically by a GitHub Action. If it is empty, the workflow may not have run yet or no recent activity exists. -->
+<!-- This section is populated automatically by a GitHub Action. If it is empty, the workflow may not have run yet or there is no recent public activity. Ensure the 'github-readme-activity-graph' or equivalent workflow is configured. -->
 <!--END_SECTION:activity-->
 
 ---
 
 ## 🐍 Contribution Snake
 
+<!-- Responsive snake animation. Uses CSS for fluid width instead of invalid percentage width attributes. -->
 <div align="center">
 
 <img
   src="https://profile-readme-generator.com/assets/snake.svg"
   alt="Contribution snake animation"
-  width="100%"
-  height="auto"
+  style="max-width: 100%; height: auto;"
   loading="lazy"
   decoding="async"
   referrerpolicy="no-referrer"
+  role="img"
 />
 
 </div>
@@ -178,6 +188,6 @@
 
 **Thanks for visiting! 😄**  
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
