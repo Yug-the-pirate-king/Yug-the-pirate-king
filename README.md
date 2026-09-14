@@ -3,7 +3,7 @@
 <!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=700&amp;height=100&amp;lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
     alt="Animated typing tagline"
     width="700"
     height="100"
@@ -17,7 +17,7 @@
 <div align="center">
   <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
   <img
-    src="gemini-svg (1).svg"
+    src="gemini-svg%20(1).svg"
     alt="Peaches - Spotify Lyrics Animation"
     width="800"
     height="400"
@@ -99,9 +99,15 @@
 <!-- Social links rendered as a centered badge row. External links use HTTPS and open securely. -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugshah197@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahyug.netlify.app)
+<a href="https://www.linkedin.com/in/shah-yug" rel="noopener noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+</a>
+<a href="mailto:yugshah197@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+</a>
+<a href="https://shahyug.netlify.app" rel="noopener noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Portfolio" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+</a>
 
 </div>
 
@@ -112,7 +118,7 @@
 <!-- Streak stats widget loaded from an external service. -->
 <div align="center">
 
-<a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" rel="noopener noreferrer" target="_blank">
   <img
     src="https://streak-stats.demolab.com?user=Yug-the-pirate-king"
     alt="GitHub Streak"
@@ -134,7 +140,7 @@
 <div align="center">
 
 <img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight"
   alt="Random developer quote"
   width="800"
   height="120"
@@ -163,7 +169,6 @@
   src="https://profile-readme-generator.com/assets/snake.svg"
   alt="Contribution snake animation"
   width="100%"
-  height="auto"
   loading="lazy"
   decoding="async"
   referrerpolicy="no-referrer"
