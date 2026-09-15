@@ -1,6 +1,5 @@
 # 👋 Hello World! I'm Yug Shah
 
-<!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
@@ -13,17 +12,15 @@
   />
 </div>
 
-<!-- Animated Spotify Lyrics Hero Banner -->
 <div align="center">
-  <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
+  <h3>My Current Favourite: <strong>Peaches</strong> - Justin Bieber</h3>
   <img
-    src="gemini-svg (1).svg"
-    alt="Peaches - Spotify Lyrics Animation"
+    src="gemini-svg%20(1).svg"
+    alt="Peaches - Spotify lyrics animation"
     width="800"
     height="400"
     loading="eager"
     decoding="async"
-    referrerpolicy="no-referrer"
   />
 </div>
 
@@ -33,7 +30,7 @@
 
 🎓 **BTech Computer Science & Engineering (2024–2028)**  
 🏫 SVKM’s Shri Bhagubhai Mafatlal Polytechnic & College of Engineering  
-📍 Mira Bhayandar, Maharashtra, India  
+📍 Mira Bhayandar, Maharashtra, India
 
 💡 Passionate about building **modern, responsive web applications**  
 ☁️ Exploring **Cloud Infrastructure, Automation (n8n), and AI applications**  
@@ -43,9 +40,8 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<!-- Reusable badge row helper: every badge uses shields.io with for-the-badge style for visual consistency. All badge links are served over HTTPS. -->
 <div align="center">
 
 ### **Languages & Core Skills**
@@ -74,29 +70,28 @@
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 What I'm Working On
 
-- 🔭 Building **responsive web apps** using React & JavaScript  
-- 🌱 Learning **Cloud, DevOps basics, and AI integration**  
-- 👯 Open to collaborating on **full-stack & automation projects**  
-- 📘 Working on **cybersecurity research & system design**  
+- 🔭 Building **responsive web apps** using React & JavaScript
+- 🌱 Learning **Cloud, DevOps basics, and AI integration**
+- 👯 Open to collaborating on **full-stack & automation projects**
+- 📘 Working on **cybersecurity research & system design**
 - ⚡ Fun fact: `console.log()` is still my best friend 😄
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
-- 🏅 CS50’s Introduction to Computer Science  
-- 🏅 JavaScript Algorithms and Data Structures  
-- 🏅 Responsive Web Design  
-- 🏅 n8n Course – Level 1 & Level 2  
+- 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate
+- 🏅 CS50’s Introduction to Computer Science
+- 🏅 JavaScript Algorithms and Data Structures
+- 🏅 Responsive Web Design
+- 🏅 n8n Course – Level 1 & Level 2
 
 ---
 
 ## 🤝 Let's Connect
 
-<!-- Social links rendered as a centered badge row. External links use HTTPS and open securely. -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-yug)
@@ -109,7 +104,6 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Streak stats widget loaded from an external service. -->
 <div align="center">
 
 <a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
@@ -130,7 +124,6 @@
 
 ## 💭 Random Dev Wisdom
 
-<!-- Dynamic quote widget loaded from an external service. -->
 <div align="center">
 
 <img
@@ -150,7 +143,6 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is populated automatically by a GitHub Action. If it is empty, the workflow may not have run yet or no recent activity exists. -->
 <!--END_SECTION:activity-->
 
 ---
@@ -173,10 +165,9 @@
 
 ---
 
-<!-- Closing / footer message -->
 <div align="center">
 
-**Thanks for visiting! 😄**  
+**Thanks for visiting! 😄**
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
