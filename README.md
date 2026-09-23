@@ -1,6 +1,9 @@
 # 👋 Hello World! I'm Yug Shah
 
-<!-- Profile header / animated tagline. This widget is loaded from an external service; it may be unavailable if the service is down. -->
+<!-- Security note: all third-party resources are loaded over HTTPS, images use referrerpolicy="no-referrer",
+     and any link that opens in a new tab uses rel="noopener noreferrer nofollow" to avoid tabnabbing. -->
+
+<!-- Profile header / animated tagline. This widget is loaded from an external service; if the service is unavailable, the alt text will be displayed instead. -->
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Frontend+Developer+(React+%26+JS);Cloud+%26+AI+Enthusiast;Aspiring+Full-Stack+Engineer;Building+Modern+Web+Apps"
@@ -13,11 +16,11 @@
   />
 </div>
 
-<!-- Animated Spotify Lyrics Hero Banner -->
+<!-- Animated Spotify Lyrics Hero Banner. The local SVG filename contains spaces and parentheses, so the path is percent-encoded for safe URL parsing. -->
 <div align="center">
   <h3> My Current Favourite <strong>Peaches</strong> - Justin Bieber</h3>
   <img
-    src="gemini-svg (1).svg"
+    src="gemini-svg%20%281%29.svg"
     alt="Peaches - Spotify Lyrics Animation"
     width="800"
     height="400"
@@ -109,10 +112,10 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Streak stats widget loaded from an external service. -->
+<!-- Streak stats widget loaded from an external service. The link opens in a new tab with safe rel attributes. -->
 <div align="center">
 
-<a href="https://git.io/streak-stats" rel="noopener noreferrer" target="_blank">
+<a href="https://git.io/streak-stats" rel="noopener noreferrer nofollow" target="_blank">
   <img
     src="https://streak-stats.demolab.com?user=Yug-the-pirate-king"
     alt="GitHub Streak"
@@ -130,7 +133,7 @@
 
 ## 💭 Random Dev Wisdom
 
-<!-- Dynamic quote widget loaded from an external service. -->
+<!-- Dynamic quote widget loaded from an external service. If the service fails, the alt text provides a graceful fallback. -->
 <div align="center">
 
 <img
@@ -157,6 +160,7 @@
 
 ## 🐍 Contribution Snake
 
+<!-- Contribution snake animation loaded from an external service. Lazy-loaded to improve page performance. -->
 <div align="center">
 
 <img
